@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "chess_state=empty":  { "model": "renju:chess_piece_empty" },
+        "chess_state=black":  { "model": "renju:chess_piece_black" },
+        "chess_state=white":  { "model": "renju:chess_piece_white" },
+        "chess_state=fake_black":  { "model": "renju:chess_piece_fake_black" },
+        "chess_state=fake_white":  { "model": "renju:chess_piece_fake_white" }
+    }
+}

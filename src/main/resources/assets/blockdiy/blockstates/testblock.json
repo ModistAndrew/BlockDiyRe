@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "blockdiy:block/testblock" }
+    }
+}
